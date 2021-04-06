@@ -27,7 +27,9 @@ I purchased a 400mm section and assume by the time this is functional, it'll pro
 
 # Changelog
 
-2021/04/054 - Initial commit
+2021/04/06 - Added belt holder design v1
+2021/04/05 - Initial commit
+
 
 ## Design
 
@@ -48,3 +50,4 @@ Ultimaker Cura 4.8.0
 ![cr6 mgn12h adapter](cr6%20mgn12h%20adapter.png "cr6 mgn12h adapter")
 ![rail nut m3](railnutm3.png "rail nut m3")
 ![vrail spacer m3](vrail%20spacer%20m3.png "vrail spacer m3")
+![belt holder](beltholder.png "belt holder")
